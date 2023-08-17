@@ -1,4 +1,4 @@
-# Project : Snakes and Ladders
+# Project: Snakes and Ladders
 
 
 import random
