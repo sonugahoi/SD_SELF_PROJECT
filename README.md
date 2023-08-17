@@ -1,6 +1,7 @@
 # Snakes-and-Ladders
 NAME - SACHIN GUPTA 
-CV POINTS -                                                                                                                    [Aug’23] 
+CV POINTS -                                      
+
 •	Developed a classic Snakes and Ladders multiplayer game in Python by importing random module. 
 •	Applied all rules of the Snake and Ladders game where players can roll the dice in their own turn.
  
