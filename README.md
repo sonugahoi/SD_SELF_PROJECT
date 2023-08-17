@@ -1,5 +1,5 @@
 # Snakes-and-Ladders
-NAME - SACHIN GUPTA 
+### NAME - SACHIN GUPTA 
 
 CV POINTS -                                      
 
